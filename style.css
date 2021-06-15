@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    font-size: 40px;
+    margin: 0px;
+    padding-top: 900px;
+}
+.menu {
+    list-style: none;
+    cursor: progress;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    z-index: 10;
+}
+    #hi {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
